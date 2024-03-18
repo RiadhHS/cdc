@@ -8,6 +8,6 @@ class InscriptionAGController extends Controller
 {
     //
     function index(){
-        return view('welcome');
+        return view('inscriptionag');
     }
 }
