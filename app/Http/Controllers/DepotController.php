@@ -8,6 +8,6 @@ class DepotController extends Controller
 {
     //
     function index(){
-        return view('welcome');
+        return view('depot');
     }
 }
